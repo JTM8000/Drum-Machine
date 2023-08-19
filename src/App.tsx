@@ -1,8 +1,8 @@
-import { useState } from 'react'
+
 import './App.css'
 import Drum from './drum';
 
-const audioClips: AudioClip[] = [
+const audioClips = [] = [
   {
     keyTrigger: "Q",
     url: "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3",
